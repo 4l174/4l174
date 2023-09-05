@@ -6,7 +6,7 @@ Olá,
 
 Meu nickname é Alita(4l174), e minha jornada na segurança cibernética teve início durante os anos de ensino médio, quando participei de um workshop sobre perícia forense em um evento de programação. Foi nesse momento que fiquei fascinada pelo vasto mundo da forense e segurança cibernética, e percebi que era nesse campo que eu desejava construir minha carreira.
 
-À medida que aprofundei meu conhecimento na ampla esfera da segurança cibernética, encontrei minha verdadeira paixão nos testes de penetração. Esse ramo desafiador e dinâmico me cativou, e desde então, tenho dedicado minha energia e esforços para aprimorar minhas habilidades nessa área crítica da cibersegurança.
+À medida que aprofundei meu conhecimento na ampla esfera da segurança cibernética, encontrei minha verdadeira paixão na segurança ofensiva. Esse ramo desafiador e dinâmico me cativou, e desde então, tenho dedicado minha energia e esforços para aprimorar minhas habilidades nessa área crítica da cibersegurança.
 
 
 ## Experiência
